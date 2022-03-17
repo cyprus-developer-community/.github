@@ -11,7 +11,7 @@ You can subscribe to our shared calendar here:
 
 ## Chat
 
-[Join us on Discord](https://discord.gg/tSDvzqYZ)
+[Join us on Discord](https://discord.gg/ttZbgesc6w)
 
 ## Feedback, Questions and Ideas
 
