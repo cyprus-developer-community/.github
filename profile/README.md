@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyprus-developer-community/.github/main/img/cyc-logo.png" width="256" height="256" alt="Cyprus Developer Community" />
+  <img src="https://raw.githubusercontent.com/cyprus-developer-community/.github/main/img/cdc-logo.png" width="256" height="256" alt="Cyprus Developer Community" />
 </p>
 
 Cyprus Developer Community
