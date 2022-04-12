@@ -23,3 +23,7 @@ back to you.
 ## Keep in touch
 
 Event feed, iCal subscription etc. coming soon.
+
+## Special Thanks
+
+- [Chris Mejlak](https://github.com/C-Mejlak) for the design work on the logo
